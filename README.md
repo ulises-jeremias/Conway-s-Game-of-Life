@@ -23,7 +23,7 @@ The initial pattern constitutes the seed of the system. The first generation is 
 The code
 --------
 
-This is a objects oriented Javascript implementation of Conway's Game of Life.
+This is an objects oriented Javascript implementation of Conway's Game of Life.
 
 In order to run the game open the 'index.html'. There will be a 50x50 world rendered. Dead cells are in grey; alive cells are in white. To change the state of one cell you should click the cell.
 
