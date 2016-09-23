@@ -1,0 +1,43 @@
+html, body {
+  position: relative;
+  height: 100%;
+}
+
+body {
+  text-align: center;
+  font-family: Roboto;
+  background: rgb(51, 51, 45);
+  color: rgb(255, 248, 227);
+}
+
+div {
+  margin: 0;
+}
+
+h1 {
+  letter-spacing: 5px;
+  font-size: 50px;
+  font-weight: 100;
+}
+
+#grid {
+  position: relative;
+  margin: 0px auto;
+}
+
+.row {
+  height: 15px;
+  margin: 0 auto;
+}
+
+.cell {
+  float: left;
+  display: inline-block;
+  width: 15px;
+  height: 15px;
+  border-radius: 25px;
+}
+
+.alive {
+  background: rgb(204, 204, 159);
+}
